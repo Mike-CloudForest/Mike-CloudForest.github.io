@@ -1,29 +1,44 @@
 {
   "date": "2026-09-05",
-  "totalLimitUSD": 100,
-  "allocatedUSD": 85,
-  "unallocatedUSD": 15,
+  "lastVerified": "2026-09-05",
+  "totalLimitUSD": 120,
+  "allocatedUSD": 120,
+  "unallocatedUSD": 0,
   "recurringAuthorized": false,
+  "instagramIdentity": "@cloudforestchinwoo",
   "allocations": [
     {
       "company": "Cloud Forest",
       "lifetimeCapUSD": 40,
-      "status": "Previously verified active; current spend not checked"
+      "status": "Previously verified active; current spend, impressions, and conversions remain unverified.",
+      "endAt": "2026-09-07T14:14:00-04:00"
     },
     {
       "company": "Lyceum",
-      "lifetimeCapUSD": 20,
-      "status": "Published; Meta Processing verified after reload on September 5. Delivery and spend not yet verified.",
+      "lifetimeCapUSD": 40,
+      "status": "Lifetime cap is $40. Facebook + Instagram placements. Spend, delivery, impressions, and conversions remain unverified.",
       "page": "https://www.facebook.com/profile.php?id=61594221926196",
-      "endAt": "2026-09-08T15:52:00-04:00"
+      "endAt": "2026-09-08T15:52:00-04:00",
+      "placements": ["facebook", "instagram"]
     },
     {
       "company": "DojoZeus",
-      "lifetimeCapUSD": 25,
-      "status": "Published; Meta Processing verified after reload on September 5. Delivery and spend not yet verified.",
+      "lifetimeCapUSD": 40,
+      "status": "Lifetime cap is $40. Facebook + Instagram placements. Spend, delivery, impressions, and conversions remain unverified.",
       "page": "https://www.facebook.com/profile.php?id=61594283693591",
-      "endAt": "2026-09-08T15:52:00-04:00"
+      "endAt": "2026-09-08T15:52:00-04:00",
+      "placements": ["facebook", "instagram"]
+    },
+    {
+      "company": "RigBoss",
+      "lifetimeCapUSD": 0,
+      "status": "No paid allocation this sprint."
+    },
+    {
+      "company": "Mech Correct",
+      "lifetimeCapUSD": 0,
+      "status": "No paid allocation this sprint."
     }
   ],
-  "note": "Supersedes the earlier $60 hold. A willingness to increase the weekly budget is not an approved increase or recurring charge."
+  "note": "Supersedes the earlier $100 aggregate, the $85 allocated / $15 unallocated ledger, and the $20 Lyceum / $25 DojoZeus public caps. Each $40 cap includes any existing spend; it is not an additional $40. No daily $40 budget, duplicate campaign, recurring renewal, or automatic weekly reset is authorized. Instagram identity for paid is @cloudforestchinwoo only. End dates last verified September 5. Spend, impressions, and conversions are unverified."
 }
